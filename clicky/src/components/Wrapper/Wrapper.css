@@ -1,0 +1,13 @@
+.wrapper {
+    padding-top: 50px;
+    background-image: url("/img/hollywood-high-definition_bw.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
+  
