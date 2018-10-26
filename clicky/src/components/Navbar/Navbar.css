@@ -1,8 +1,18 @@
 .navbar {
+  background: transparent;
     width: 100%;
+    color: ghostwhite;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.0rem;
     text-align: center;
-    font-size: 3rem;
-    text-decoration: underline;
-    color: #2A77AE;
-    margin-bottom: 50px;
   }
+
+  #score {
+    padding-left: 32%;
+  }
+
+  #top-score {
+    padding-right: 32%;
+  }
+
+ 

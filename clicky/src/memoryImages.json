@@ -3,115 +3,115 @@
       "id": 1,
       "name": "Back to the Future",
       "image": "/img/soundtracks/300back_to_the_future_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 2,
       "name": "Beverly Hills Cop",
       "image": "/img/soundtracks/300beverly_hills_cop_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 3,
       "name": "Blade Runner",
       "image": "/img/soundtracks/300blade_runner_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 4,
       "name": "Born on the Fourth of July",
       "image": "/img/soundtracks/300born_on_the_fourth_of_july_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 5,
       "name": "The Breakfast Club",
       "image": "/img/soundtracks/300breakfast_club_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 6,
       "name": "Cocktail",
       "image": "/img/soundtracks/300cocktail_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 7,
       "name": "Dirty Dancing",
       "image": "/img/soundtracks/300dirty_dancing_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 8,
       "name": "Star Wars: Empire Strikes Back",
       "image": "/img/soundtracks/300empire_strikes_back_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 9,
       "name": "E.T.",
       "image": "/img/soundtracks/300et_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 10,
       "name": "Footloose",
       "image": "/img/soundtracks/300footloose_soundtrackjpg.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 11,
       "name": "Ghostbusters",
       "image": "/img/soundtracks/300ghostbusters_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 12,
       "name": "The Goonies",
       "image": "/img/soundtracks/300goonies_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 13,
       "name": "Ferris Bueller's Day Off",
       "image": "/img/soundtracks/300ferris_buellers_day_off.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 14,
       "name": "Iron Eagle",
       "image": "/img/soundtracks/300iron_eagle.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 15,
       "name": "Karate Kid II",
       "image": "/img/soundtracks/300karate_kid_2_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 16,
       "name": "Highlander",
       "image": "/img/soundtracks/300highlander.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 17,
       "name": "Labyrinth",
       "image": "/img/soundtracks/300labyrinth.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 18,
       "name": "Mannequin",
       "image": "/img/soundtracks/300mannequin_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 19,
       "name": "Never Ending Story",
       "image": "/img/soundtracks/300never_ending_story_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 20,
@@ -123,61 +123,73 @@
       "id": 21,
       "name": "Platoon",
       "image": "/img/soundtracks/300platoon_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 22,
       "name": "Star Wars: Return of the Jedi",
       "image": "/img/soundtracks/300return_of_the_jedi.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 23,
       "name": "Risky Business",
       "image": "/img/soundtracks/300risky_business_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 24,
       "name": "Roadhouse",
       "image": "/img/soundtracks/300roadhouse.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 25,
       "name": "Short Circuit",
       "image": "/img/soundtracks/300short_circuit_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 26,
       "name": "The Lost Boys",
       "image": "/img/soundtracks/300the_lost_boys.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 27,
       "name": "Stand By Me",
       "image": "/img/soundtracks/300stand_by_me_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 28,
       "name": "The Secret to My Success",
       "image": "/img/soundtracks/300the_secret_to_my_success.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 29,
       "name": "Top Gun",
       "image": "/img/soundtracks/300top_gun_soundtrack.png",
-      "count": ""
+      "click": false
     },
     {
       "id": 30,
       "name": "Batman",
       "image": "/img/soundtracks/300batman.png",
-      "count": ""
+      "click": false
+    },
+    {
+      "id": 31,
+      "name": "The Burbs",
+      "image": "/img/soundtracks/300burbs.png",
+      "click": false
+    },
+    {
+      "id": 32,
+      "name": "Flight of the Navigator",
+      "image": "/img/soundtracks/300flight_of_the_navigator.png",
+      "click": false
     }
 
   ]
