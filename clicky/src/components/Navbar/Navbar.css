@@ -1,5 +1,4 @@
 .navbar {
-  background: transparent;
     width: 100%;
     color: ghostwhite;
     font-family: 'Roboto', sans-serif;
@@ -9,10 +8,20 @@
 
   #score {
     padding-left: 32%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+  }
+
+  #message {
+    font-family: 'Limelight', cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
   }
 
   #top-score {
     padding-right: 32%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
   }
 
  

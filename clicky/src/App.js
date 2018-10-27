@@ -13,6 +13,7 @@ state = {
   memoryImages,
   score: 0,
   topScore: 0,
+  successError: "",
   clickedMemoryImages: []
 };
 
@@ -63,7 +64,7 @@ else {
 
 handleScore = () => {
   const playerScore = this.state.score + 1;
-  this.setState({score: playerScore})
+  this.setState({score: playerScore, successError: "Bangin!"})
   if(playerScore >= this.state.topScore) {
     this.setState({topScore: playerScore})
   }
@@ -78,8 +79,7 @@ handleScore = () => {
 /* ========================== Handle Game Restart ================================== */
 
 handleRestart = () => {
-  alert("Let's Go Again!")
-  this.setState({score: 0, topScore: this.state.topScore, clickedMemoryImages: []});
+  this.setState({score: 0, topScore: this.state.topScore, clickedMemoryImages: [], successError: "Wrong!"});
   this.handleCardShuffle();
 }
 
@@ -91,11 +91,13 @@ handleRestart = () => {
   render() {
     return (
       <div>
+            <Wrapper>
       <Title>
       1980's Movie Soundtrack Memory Game
+      <h5>Click on an Image to Earn Points! Just Don't Click on the same Image Twice!</h5>
         </Title>
-      <Navbar><span id="score">Score: {this.state.score} </span> <span id="top-score">Top Score: {this.state.topScore} </span></Navbar>
-            <Wrapper>
+        
+      <Navbar><span id="score">Score: {this.state.score} </span> <span id="message">{this.state.successError}</span><span id="top-score">Top Score: {this.state.topScore} </span></Navbar>
               <div className="container-fluid">
                 <div className="row">
                    {this.state.memoryImages.map(memory => (
@@ -111,8 +113,8 @@ handleRestart = () => {
                     ))}
                 </div>
               </div>
-           </Wrapper>
         <Footer></Footer>
+           </Wrapper>
       </div>
     )
   }
