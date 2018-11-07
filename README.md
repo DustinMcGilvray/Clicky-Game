@@ -3,34 +3,23 @@
 </p>
 
 ## Overview
-The Code/Burger Restaurant App allows user's to enter burger names that they would like to eat. The newly named burger is then displayed in the 'Ready to Eat' column on the left with a 'Devour it' Button. With a click of the button, the burger is removed from the 'Ready-to-Eat' column and displayed in the 'Devoured Burgers' Column. The user is then given the option to 'Trash It' with another button. 
-All of the burger names, whether devoured or not, are saved persistently using a MySQL database. 
-
-Let's Eat!
+A Memory Game built with React.JS to test the players mental fortitude. To begin, a player clicks on an album cover and will be awarded a point. The images will shuffle and the player clicks on another album cover. If the image hasn't been clicked, another point will be awarded. Otherwise, the high score will persist and the game restarts.
 
 <p align="center">
   <img src = game_screenshot.JPG/>
 </p>
 
+[Let's Play!](https://blooming-beach-30586.herokuapp.com/)
+
 ### Crafted With
 ---
-* [Skeleton Framework](http://getskeleton.com/#intro)
-* Node.JS
-* Handlebars.JS
-* Express.JS
-* Homemade ORM (Object Relational Mapping)
-* [MySQL Workbench](https://www.mysql.com/)
+* [Bootstrap Framework](https://getbootstrap.com/)
+* [React.JS](https://reactjs.org/)
+* ES6
 * JavaScript
 * [Visual Studio Code](https://code.visualstudio.com/)
 * GitBash
 * MVC (Model-View-Controller) Design Pattern
-
-### NPM'S
----
-* [Express](https://www.npmjs.com/package/express)
-* [Handlebars](http://handlebarsjs.com/)
-* [Body Parser](https://www.npmjs.com/package/body-parser)
-* [Nodemon](https://www.npmjs.com/package/nodemon)
 
 ### Hosting
 ---
