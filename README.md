@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = memory_game_logo.JPG/>
+  <img src = /public/img/clicky_game_header.png/>
 </p>
 
 ## Overview
@@ -7,6 +7,10 @@ The Code/Burger Restaurant App allows user's to enter burger names that they wou
 All of the burger names, whether devoured or not, are saved persistently using a MySQL database. 
 
 Let's Eat!
+
+<p align="center">
+  <img src = game_screenshot.JPG/>
+</p>
 
 ### Crafted With
 ---
