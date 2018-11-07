@@ -19,7 +19,6 @@ A Memory Game built with React.JS to test the players mental fortitude. To begin
 * JavaScript
 * [Visual Studio Code](https://code.visualstudio.com/)
 * GitBash
-* MVC (Model-View-Controller) Design Pattern
 
 ### Hosting
 ---
